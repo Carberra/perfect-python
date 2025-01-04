@@ -2,7 +2,10 @@
 
 This repository contains all the code created in the [Perfect Python](https://www.youtube.com/playlist?list=PLYeOw6sTSy6YZyg-8dtLl98q9wUA0QOVa) videos on the [Carberra YouTube channel](https://www.youtube.com/channel/UC13cYu7lec-oOcqQf5L-brg).
 
-**Note:** This repo is still WIP, so not everything is here yet.
+## Availability
+
+* Episodes published before 1 Jan 2024 are not currently available
+* Some episodes do not have source code associated with them
 
 ## License
 
